@@ -23,8 +23,36 @@ tidy_data <- sportsref_download.xls[-c(1),] %>%
     DefYdsRNK = X.15,
     TurnRNK = Overall.Rank,
     PtsDiffRNK = X.16,
-    YdsDiffRNK = X.17)
-  
+    YdsDiffRNK = X.17) %>%
+  mutate(Year = as.integer(Year)) %>%
+  mutate(Wins = as.integer(Wins)) %>%
+  mutate(Loses = as.integer(Loses)) %>%
+  mutate(Ties = as.integer(Ties)) %>%
+  mutate(Total_points = as.integer(Total_points)) %>%
+  mutate(Points_allowed = as.integer(Points_allowed)) %>%
+  mutate(Point_diff = as.integer(Point_diff)) %>%
+  mutate(OffPtsRNK = as.integer(OffPtsRNK)) %>%
+  mutate(OffYdsRNK = as.integer(OffYdsRNK)) %>%
+  mutate(DefPtsRNK = as.integer(DefPtsRNK)) %>%
+  mutate(DefYdsRNK = as.integer(DefYdsRNK)) %>%
+  mutate(TurnRNK = as.integer(TurnRNK)) %>%
+  mutate(PtsDiffRNK = as.integer(PtsDiffRNK)) %>%
+  mutate(Year = as.integer(Year)) %>%
+  mutate(Wins = as.integer(Wins)) %>%
+  mutate(Loses = as.integer(Loses)) %>%
+  mutate(Ties = as.integer(Ties)) %>%
+  mutate(Total_points = as.integer(Total_points)) %>%
+  mutate(Points_allowed = as.integer(Points_allowed)) %>%
+  mutate(Point_diff = as.integer(Point_diff)) %>%
+  mutate(OffPtsRNK = as.integer(OffPtsRNK)) %>%
+  mutate(OffYdsRNK = as.integer(OffYdsRNK)) %>%
+  mutate(DefPtsRNK = as.integer(DefPtsRNK)) %>%
+  mutate(DefYdsRNK = as.integer(DefYdsRNK)) %>%
+  mutate(TurnRNK = as.integer(TurnRNK)) %>%
+  mutate(YdsDiffRNK = as.integer(YdsDiffRNK))
+
 tidy_data <- tidy_data[-(34:91),]
+
+View(tidy_data)
 
 esquisser(data = tidy_data, viewer = "browser")

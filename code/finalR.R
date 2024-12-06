@@ -3,10 +3,14 @@ library(tidyr)
 library(dplyr)
 library(esquisse)
 
+#tidy dataset 
 
+#get rid of top row
 tidy_data <- sportsref_download.xls[-c(1),] %>%
+  #delete unnecessary columns
   subset(select = -c(X.1, X.2, Top.Players, X.11, X.12, X.13, X.18, Simple.Rating.System, X.19, X.20, X.21, X.22 )) %>%
-  rename( #rename columns
+  #renames columns
+  rename( 
     Year = X, 
     Wins = X.3,
     Loses = X.4, 
@@ -24,6 +28,8 @@ tidy_data <- sportsref_download.xls[-c(1),] %>%
     TurnRNK = Overall.Rank,
     PtsDiffRNK = X.16,
     YdsDiffRNK = X.17) %>%
+  #mutates or changes the data type of the column
+  #this helps with graphing and making sure the data is being represented correctly
   mutate(Year = as.integer(Year)) %>%
   mutate(Wins = as.integer(Wins)) %>%
   mutate(Loses = as.integer(Loses)) %>%
@@ -51,8 +57,40 @@ tidy_data <- sportsref_download.xls[-c(1),] %>%
   mutate(TurnRNK = as.integer(TurnRNK)) %>%
   mutate(YdsDiffRNK = as.integer(YdsDiffRNK))
 
+#keeps data from years 1992 to 2024 only 
 tidy_data <- tidy_data[-(34:91),]
 
 View(tidy_data)
 
+#creating graphs to compare tomlin and cowher
 esquisser(data = tidy_data, viewer = "browser")
+
+
+#graph compares details wins between coaches
+
+ggplot(tidy_data) +
+  aes(x = Wins, colour = Coaches) +
+  geom_histogram(bins = 30L, fill = "#112446") +
+  scale_color_manual(
+    values = c(Cowher = "#F8766D",
+               Tomlin = "#61E0FF")
+  ) +
+  theme_minimal() +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10))
+
+#graphs compares total points scored and wins
+
+ggplot(tidy_data) +
+  aes(x = Wins, y = Total_points, colour = Coaches) +
+  geom_point(size = 3L, shape = "bullet") +
+  scale_color_manual(
+    values = c(Cowher = "#F8766D",
+               Tomlin = "#61E0FF")
+  ) +
+  theme_minimal() +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10))
+
+
+

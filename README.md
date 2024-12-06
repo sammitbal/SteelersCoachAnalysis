@@ -16,4 +16,4 @@ https://www.pro-football-reference.com/teams/pit/
 For any questions comments or other communications reach out to:
 
 JJ Steinbugl - jjsteinbugl@gmail.com
-Sammit Bal - 
+Sammit Bal - ssb5642@psu.edu

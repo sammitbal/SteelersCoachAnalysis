@@ -92,5 +92,45 @@ ggplot(tidy_data) +
   scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
   scale_y_continuous(breaks = scales::pretty_breaks(n = 10))
 
+#graph compares total points and years
+
+ggplot(tidy_data) +
+  aes(x = Year, y = Total_points, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+
+# off pts rank 
+
+ggplot(tidy_data) +
+  aes(x = Year, y = OffPtsRNK, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+#def pts rnk
+
+ggplot(tidy_data) +
+  aes(x = Year, y = DefPtsRNK, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+#points allowed
+
+ggplot(tidy_data) +
+  aes(x = Year, y = Points_allowed, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+# off yds rank and def yds rank
+
+ggplot(tidy_data) +
+  aes(x = OffYdsRNK, y = DefYdsRNK, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
 
 

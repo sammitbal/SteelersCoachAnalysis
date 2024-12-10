@@ -11,6 +11,7 @@ Who is the better coach for the Pittsburgh Steelers?
 
 # Data
 https://www.pro-football-reference.com/teams/pit/
+The data was collected from profootballreference.com. We scraped the data and put it into an excel file to then be imported into R. The data includes metrics from each season the Steelers were coached by Mike Tomlin, and each season they were coach by Bill Cowher. The data follows the FAIR principles as it is very easy to find, it is very accessible as it is free, it is easy interpreted because of the many section headers, and is easily able to be reused. We focused on the ranks in points and yards for both coaches, both offensively and defensively. We also focused on each coaches' win and loss totals throughout their tenure, as well as their division finishes and playoff runs. These were all statistics that were included in our data set.
 
 # Contacts
 For any questions comments or other communications reach out to:

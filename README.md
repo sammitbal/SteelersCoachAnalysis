@@ -12,6 +12,8 @@ Who is the better coach for the Pittsburgh Steelers?
 # Data
 https://www.pro-football-reference.com/teams/pit/
 
+https://www.leanblog.org/2020/10/nfl-scoring-is-up-an-all-time-high-but-is-it-a-signal-worth-explaining/
+
 # Contacts
 For any questions comments or other communications reach out to:
 

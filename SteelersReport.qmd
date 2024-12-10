@@ -50,6 +50,4 @@ JJ Steinbugl and Sammit Bal
 -   **Fail Safe:** You can also put your citations as footnotes.
 ```
 
--   
-
 ## Running Code

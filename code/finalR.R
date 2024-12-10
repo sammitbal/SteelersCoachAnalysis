@@ -1,3 +1,4 @@
+#load packages
 library(tidyverse)
 library(tidyr)
 library(dplyr)
@@ -66,7 +67,7 @@ View(tidy_data)
 esquisser(data = tidy_data, viewer = "browser")
 
 
-#graph compares details wins between coaches
+.#graph compares details wins between coaches
 
 ggplot(tidy_data) +
   aes(x = Wins, colour = Coaches) +
@@ -133,4 +134,11 @@ ggplot(tidy_data) +
   scale_color_hue(direction = 1) +
   theme_minimal()
 
+#added div finish
+
+ggplot(tidy_data) +
+  aes(x = Div_fin, colour = Coaches) +
+  geom_bar(fill = "#112446") +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
 

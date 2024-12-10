@@ -8,7 +8,45 @@ editor: visual
 
 STAT184 Final Project
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+JJ Steinbugl and Sammit Bal
+
+12/18/2024
+
+**Research Question:**
+
+-   State your research questions and explain them.
+
+-    Describe the provenance of your data. That is, where did you get the data, who collected the data, for what purpose, who/what make up the cases.
+
+-    Explain how your data meet the FAIR and/or CARE Principles.
+
+-    Describe what attributes you'll focus your analysis on (mention if they are part of your data sets or if you created them out of your data sets).
+
+-    Create multiple data visualizations (tables and figures) that assist both the team and readers in understanding the data.
+
+    -    Data visualizations should show a variety of your skills and geometries.
+
+    -    **Optional**: If your research question/data make sense to do so, try creating a map.
+
+    -    Data visualizations should be appropriately sized--not too small and not too big.
+
+    -    Figures and Tables should have appropriate captions and appropriately cross-referenced in the body of your report.
+
+    -    Your team must produce at least one table that is *not* a display of raw data.
+
+    -    Your team must produce at least one plot/graph.
+
+    -    There should be narrative text helping readers to better understand what the visualization helps them to learn about the data and context.
+
+-    Your report should narrative text (beyond explaining tables and figures) that explains the context and helps the reader make sense of what is going on.
+
+-    **Optional:** For those who want to challenge themselves further, feel free to include a section on using other statistical methods such as hypothesis testing, regression, ANOVA, or machine learning--see Chapter 18 of the Data Computing eBook.
+
+-    You should properly cite any work you reference (including data) according to your choice of citation style. We've included files for APA7 and MLA9 as part of this template. If you want to use a different citation style, you will need download the CSL file from the [Zotero Style Respository](https://www.zotero.org/styles/) and include it in your team's repo.
+
+    -   **Fail Safe:** You can also put your citations as footnotes.
+
+-   
 
 ## Running Code
 

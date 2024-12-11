@@ -3,9 +3,13 @@ The Pittsburgh Steelers are known for their long tenured coaches. In this repo, 
 
 # Research Questions
 Who is the better coach for the Pittsburgh Steelers?
+
 Who is more consistent in their rankings during their tenure?
+
 Who was more successful during their tenure?
+
 How does the evolving NFL playstyle affect the statistics?
+
 
 
 # Methodology

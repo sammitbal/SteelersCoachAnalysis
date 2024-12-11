@@ -25,6 +25,8 @@ https://www.pro-football-reference.com/teams/pit/
 
 https://www.leanblog.org/2020/10/nfl-scoring-is-up-an-all-time-high-but-is-it-a-signal-worth-explaining/
 
+https://www.statista.com/statistics/195289/revenue-of-the-pittsburgh-steelers-since-2006/
+
 # Contacts
 For any questions comments or other communications reach out to:
 

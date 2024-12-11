@@ -88,7 +88,7 @@ merged_tidy_data <- tidy_data %>%
 View(merged_tidy_data)
 
 
-#graph compares details wins between coaches
+#graph compares wins between coaches
 
 ggplot(tidy_data) +
   aes(x = Wins, colour = Coaches) +

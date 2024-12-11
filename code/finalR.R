@@ -4,6 +4,8 @@ library(tidyr)
 library(dplyr)
 library(esquisse)
 
+
+#dataset contains all basic team information as well as points and yard ranks
 #tidy dataset 
 
 #get rid of top row
@@ -63,11 +65,30 @@ tidy_data <- tidy_data[-(34:91),]
 
 View(tidy_data)
 
+
+
 #creating graphs to compare tomlin and cowher
 esquisser(data = tidy_data, viewer = "browser")
 
 
-.#graph compares details wins between coaches
+
+##data set contains steelers receiving leader data
+revenue_data <- steelersrevenue[-c(1,2,3),] %>%
+  #renaming columns
+  rename(Year = V1,
+         Revenue.Million = V2) %>%
+  #changing data type
+  mutate(Year = as.integer(Year))
+  
+#adding revenue data to original dataset
+merged_tidy_data <- tidy_data %>%
+  left_join(revenue_data, by = "Year")
+  
+
+View(merged_tidy_data)
+
+
+#graph compares details wins between coaches
 
 ggplot(tidy_data) +
   aes(x = Wins, colour = Coaches) +

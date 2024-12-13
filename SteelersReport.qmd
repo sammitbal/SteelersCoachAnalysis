@@ -1,16 +1,58 @@
 ---
-title: "SteelersReport"
+title: "Comparing the Pittsburgh Steelers under Bill Cowher vs. Mike Tomlin"
 format: pdf
 editor: visual
 ---
-
-## Comparing the Pittsburgh Steelers under Bill Cowher vs. Mike Tomlin
+\begin{center}
 
 STAT184 Final Project
 
 JJ Steinbugl and Sammit Bal
 
 12/18/2024
+
+\end{center}
+
+
+**Introduction**
+
+The Pittsburgh Steelers are one of the most famous franchises in NFL history, known for their iconic players, championship success, and leadership. Over the past three decades, the team has been shaped by two head coaches: Bill Cowher and Mike Tomlin. 
+
+Bill Cowher, who coached the team from 1992 to 2006, is known for his strong defensive-minded strategies, and running focused offence. Under his leadership, the Steelers reached the Super Bowl twice, winning in 2005. Following Cowher's tenure, Mike Tomlin took the reins in 2007, becoming the youngest head coach to win a Super Bowl in 2008. 
+
+In this report we will compare the Steelers' performance under Cowher and Tomlin, exploring their impact on the franchise through various metrics, including win-loss records, playoff consistency, and average offensive and defensive rankings. Additionally, we will consider how changes in the NFL's playstyle may have influenced their respective coaching tenures. 
+
+This analysis aims to answer a few critical questions about who has been the better coach, who demonstrated greater consistency, and who achieved more success during their time at the helm of the Pittsburgh Steelers?
+
+
+**Methodology**
+
+This analysis compares the performance of the Pittsburgh Steelers under Bill Cowher (1992–2006) and Mike Tomlin (2007–present). The following outlines the approach taken to gather, analyze, and interpret data, as well as the methods used to account for changes in NFL playstyles over time.
+
+Data was gathered from Pro Football Reference, and Statista, this data includes win-loss records, divisional rankings, offensive and defensive rankings, and points scored and allowed. After the data was gathered we cleaned and merged the data sources in order to consolidate our data and make it easier to work with in the future. The data also meets the FAIR principles as it can be easily found, it is accessible and free to download, it can be easily interpreted in CSV format, and it can easily be reused. 
+
+We recognize that football is an ever evolving sport and understand how NFL rule changes can affect a teams playstyle. Over the years we have noticed the shift toward pass-heavy offenses and rule changes favoring offensive play and player safety. To address these changes, the analysis will consider and address these recent trends/changes before any type of conclusion is made. 
+
+
+**Analysis:**
+
+Graphical Comparisons: Include and interpret the graphs you created. Break these down by tenure, rankings, success metrics, and consistency.
+Evolving NFL Playstyle: Discuss trends in the league (e.g., changes in offensive/defensive styles) and their possible impact on the coaches' statistics.
+Discussion:
+
+Address each research question in detail, supported by the data and insights from the graphs.
+Discuss any limitations in your analysis,
+
+**Conclusion**
+
+Summarize your findings and provide a reasoned argument answering the main question of who was the better coach, supported by evidence.
+
+
+**References**
+
+Include all references used in report and analysis.
+
+
 
 **Research Question:**
 

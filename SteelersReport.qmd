@@ -3,6 +3,8 @@ title: "Comparing the Pittsburgh Steelers under Bill Cowher vs. Mike Tomlin"
 format: pdf
 editor: visual
 ---
+
+```{=tex}
 \begin{center}
 
 STAT184 Final Project
@@ -12,84 +14,73 @@ JJ Steinbugl and Sammit Bal
 12/18/2024
 
 \end{center}
-
-
+```
 **Introduction**
 
-The Pittsburgh Steelers are one of the most famous franchises in NFL history, known for their iconic players, championship success, and leadership. Over the past three decades, the team has been shaped by two head coaches: Bill Cowher and Mike Tomlin. 
+The Pittsburgh Steelers are one of the most famous franchises in NFL history, known for their iconic players, championship success, and leadership. Over the past three decades, the team has been shaped by two head coaches: Bill Cowher and Mike Tomlin.
 
-Bill Cowher, who coached the team from 1992 to 2006, is known for his strong defensive-minded strategies, and running focused offence. Under his leadership, the Steelers reached the Super Bowl twice, winning in 2005. Following Cowher's tenure, Mike Tomlin took the reins in 2007, becoming the youngest head coach to win a Super Bowl in 2008. 
+Bill Cowher, who coached the team from 1992 to 2006, is known for his strong defensive-minded strategies, and running focused offence. Under his leadership, the Steelers reached the Super Bowl twice, winning in 2005. Following Cowher's tenure, Mike Tomlin took the reins in 2007, becoming the youngest head coach to win a Super Bowl in 2008.
 
-In this report we will compare the Steelers' performance under Cowher and Tomlin, exploring their impact on the franchise through various metrics, including win-loss records, playoff consistency, and average offensive and defensive rankings. Additionally, we will consider how changes in the NFL's playstyle may have influenced their respective coaching tenures. 
+In this report we will compare the Steelers' performance under Cowher and Tomlin, exploring their impact on the franchise through various metrics, including win-loss records, playoff consistency, and average offensive and defensive rankings. Additionally, we will consider how changes in the NFL's playstyle may have influenced their respective coaching tenures.
 
 This analysis aims to answer a few critical questions about who has been the better coach, who demonstrated greater consistency, and who achieved more success during their time at the helm of the Pittsburgh Steelers?
-
 
 **Methodology**
 
 This analysis compares the performance of the Pittsburgh Steelers under Bill Cowher (1992–2006) and Mike Tomlin (2007–present). The following outlines the approach taken to gather, analyze, and interpret data, as well as the methods used to account for changes in NFL playstyles over time.
 
-Data was gathered from Pro Football Reference, and Statista, this data includes win-loss records, divisional rankings, offensive and defensive rankings, and points scored and allowed. After the data was gathered we cleaned and merged the data sources in order to consolidate our data and make it easier to work with in the future. The data also meets the FAIR principles as it can be easily found, it is accessible and free to download, it can be easily interpreted in CSV format, and it can easily be reused. 
+Data was gathered from Pro Football Reference, and Statista, this data includes win-loss records, divisional rankings, offensive and defensive rankings, and points scored and allowed. After the data was gathered we cleaned and merged the data sources in order to consolidate our data and make it easier to work with in the future. The data also meets the FAIR principles as it can be easily found, it is accessible and free to download, it can be easily interpreted in CSV format, and it can easily be reused.
 
-We recognize that football is an ever evolving sport and understand how NFL rule changes can affect a teams playstyle. Over the years we have noticed the shift toward pass-heavy offenses and rule changes favoring offensive play and player safety. To address these changes, the analysis will consider and address these recent trends/changes before any type of conclusion is made. 
-
+We recognize that football is an ever evolving sport and understand how NFL rule changes can affect a teams playstyle. Over the years we have noticed the shift toward pass-heavy offenses and rule changes favoring offensive play and player safety. To address these changes, the analysis will consider and address these recent trends/changes before any type of conclusion is made.
 
 **Analysis:**
 
-Graphical Comparisons: Include and interpret the graphs you created. Break these down by tenure, rankings, success metrics, and consistency.
-Evolving NFL Playstyle: Discuss trends in the league (e.g., changes in offensive/defensive styles) and their possible impact on the coaches' statistics.
-Discussion:
+Graphical Comparisons: Include and interpret the graphs you created. Break these down by tenure, rankings, success metrics, and consistency. Evolving NFL Playstyle: Discuss trends in the league (e.g., changes in offensive/defensive styles) and their possible impact on the coaches' statistics. Discussion:
 
-Address each research question in detail, supported by the data and insights from the graphs.
-Discuss any limitations in your analysis,
+Address each research question in detail, supported by the data and insights from the graphs. Discuss any limitations in your analysis,
 
-**Conclusion**
+-   Who is the better coach for the Pittsburgh Steelers?
+
+    This is the obvious question to ask in this analysis, but is indeed the overarching question. We will first analyze wins and losses, as it is the first thing you think of when you think of a coach.
+
+    ![](images/clipboard-4000230535.png)
+
+    This is a graph that shows through their time as a coach how many times Coaches Cowher and Tomlin got a certain amount of wins. These counts range from 6 to 15, with Cowher taking the lowest and highest. We see that Mike Tomlin has been very consistent from the 8 to 13 win range, but Bill Cowher has had more variety in his win columns. An important note to consider here is that When Cowher coached, there were only 16 games in the season, as opposed to Tomlin who has 17 games in each season. We interpret that Tomlin has been much more consistent with winning, but we are aware of the uneven game amounts.
+
+    The next category we analyzed was each coaches total points scored in terms of both their wins and their points scored. The graph comparing points scored to wins is on the left, and the one comparing points scored to the year is on the right.
+
+    ![](images/clipboard-3424389474.png){width="250"}![](images/clipboard-64297739.png){width="250"}
+
+    As you can see, the graph on the right once again favors Tomlin, as he is much more consistently scoring points, which by correlation is going to contribute to winning more games, as we saw in the graph above. But, a trend that has appeared in the more recent years of the NFL is that NFL football is a much higher scoring game than in years past. This is easily seen in the graph on the right, as Tomlin is easily scoring more points than Cowher, even in his seasons with less wins.
+
+-   Who is more consistent in their rankings during their tenure?
+
+    The next thing we can look at is how these two coaches compared to their colleagues throughout their time coaching. We will analyze graphs comparing their ranks in all categories, offensive and defensive.
+
+    The first visualization we made was comparing the offensive points scored ranking of the coaches each year they coached. In terms of ranking, number 1 is the best, so the lower the line is, the better the coach was ranked in that year.
+
+    ![](images/clipboard-2906734705.png)
+
+    In the graph we can see that Mike Tomlin is much more variable, having multiple spikes in rank up in the 20's, but a few short years close to 2 or 3. Coach Cowher is more consistent, only having one big spike up in the high 20's, but other than that having a consistent rank of around 8.
+
+    We then did the same for defensive points scored rank.
+
+-   **Conclusion**
 
 Summarize your findings and provide a reasoned argument answering the main question of who was the better coach, supported by evidence.
-
 
 **References**
 
 Include all references used in report and analysis.
 
+**Research Questions:**
 
+-   Who is the better coach for the Pittsburgh Steelers?
 
-**Research Question:**
+-   Who is more consistent in their rankings during their tenure?
 
--   State your research questions and explain them.
+-   Who was more successful during their tenure?
 
--   Describe the provenance of your data. That is, where did you get the data, who collected the data, for what purpose, who/what make up the cases.
-
--   Explain how your data meet the FAIR and/or CARE Principles.
-
--   Describe what attributes you'll focus your analysis on (mention if they are part of your data sets or if you created them out of your data sets).
-
--   Create multiple data visualizations (tables and figures) that assist both the team and readers in understanding the data.
-
-```         
--    Data visualizations should show a variety of your skills and geometries.
-
--    **Optional**: If your research question/data make sense to do so, try creating a map.
-
--    Data visualizations should be appropriately sized--not too small and not too big.
-
--    Figures and Tables should have appropriate captions and appropriately cross-referenced in the body of your report.
-
--    Your team must produce at least one table that is *not* a display of raw data.
-
--    Your team must produce at least one plot/graph.
-
--    There should be narrative text helping readers to better understand what the visualization helps them to learn about the data and context.
-```
-
--   Your report should narrative text (beyond explaining tables and figures) that explains the context and helps the reader make sense of what is going on.
-
--   **Optional:** For those who want to challenge themselves further, feel free to include a section on using other statistical methods such as hypothesis testing, regression, ANOVA, or machine learning--see Chapter 18 of the Data Computing eBook.
-
--   You should properly cite any work you reference (including data) according to your choice of citation style. We've included files for APA7 and MLA9 as part of this template. If you want to use a different citation style, you will need download the CSL file from the [Zotero Style Respository](https://www.zotero.org/styles/) and include it in your team's repo.
-
-```         
--   **Fail Safe:** You can also put your citations as footnotes.
-```
+-   How does the evolving NFL playstyle affect the statistics?
 
 ## Running Code

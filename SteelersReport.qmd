@@ -33,6 +33,16 @@ Data was gathered from Pro Football Reference, and Statista, this data includes 
 
 We recognize that football is an ever evolving sport and understand how NFL rule changes can affect a teams playstyle. Over the years we have noticed the shift toward pass-heavy offenses and rule changes favoring offensive play and player safety. To address these changes, the analysis will consider and address these recent trends/changes before any type of conclusion is made.
 
+**Research Questions:**
+
+-   Who is the better coach for the Pittsburgh Steelers?
+
+-   Who is more consistent in their rankings during their tenure?
+
+-   Who was more successful during their tenure?
+
+-   How does the evolving NFL playstyle affect the statistics?
+
 **Analysis:**
 
 Graphical Comparisons: Include and interpret the graphs you created. Break these down by tenure, rankings, success metrics, and consistency. Evolving NFL Playstyle: Discuss trends in the league (e.g., changes in offensive/defensive styles) and their possible impact on the coaches' statistics. Discussion:
@@ -63,24 +73,62 @@ Address each research question in detail, supported by the data and insights fro
 
     In the graph we can see that Mike Tomlin is much more variable, having multiple spikes in rank up in the 20's, but a few short years close to 2 or 3. Coach Cowher is more consistent, only having one big spike up in the high 20's, but other than that having a consistent rank of around 8.
 
-    We then did the same for defensive points scored rank.
+    We then did the same for defensive points scored rank. The same rule that lower is better applies to this graph as well.
 
--   **Conclusion**
+    ![](images/clipboard-3632505765.png)
 
-Summarize your findings and provide a reasoned argument answering the main question of who was the better coach, supported by evidence.
+    From this graph we can see that Mike Tomlin is very sporadic with his rankings, some very high, and some very low, whereas Bill Cowher is much more consistent, with far less spikes than Tomlin.
+
+    The next graph shows the coaches rank in terms of offensive and defensive yards. In this particular graph, the further in the bottom left the coach is, the better their ranks were.
+
+    ![](images/clipboard-3198986412.png)
+
+    We can see that Coach Cowher was able to acquire much lower ranks in both offensive and defensive yards. We can also see that he was much more consistent in his time, keeping all of his ranks low whereas Mike Tomlin had years with very high ranks.
+
+-   Who was more successful during their tenure?
+
+    When determining success, one of the most common standpoints to view success is by end of the season ranks, as well as playoff runs. We will compare both of these to see the success level of each coach.
+
+    Our first graph is comparing the divisional finishes. One thing we have to be aware of is that in Cowher's time, there were 5 and 6 teams in the playoff, compared to the modern day 4 teams.
+
+    ![](images/clipboard-1894425753.png)
+
+    Here we can see that accounting for the different amount of teams between the two time frames, the coaches are pretty even. Each coach has finished first about 7 times, and they have each finished second and third the same amount of times. This tells us they were both very successful, but nothing too prominent to distinguish them from one another.
+
+    Now we can compare their playoff appearances, and to what level they got to. The order in terms of least important to most important is as follows:
+
+-   No Appearance
+
+-   Lost WC
+
+-   Lost Div
+
+-   Lost Conf
+
+-   Lost SB
+
+-   Won SB
+
+-   ![](images/clipboard-172469514.png)
+
+    We observe that in terms of the most important appearance, the Superbowl, both coaches have won one and lost one, so there is no significant difference there. But, we do see that coach Cowher is leading in both the Lost Conf and Lost Div columns, meaning that he was able to get further in the playoffs a lot more often than coach Tomlin. From this we determine that Bill Cowher was more successful in the playoffs.
+
+-   How does the evolving NFL playstyle affect the statistics?
+
+    Earlier we discussed how the NFL gameplay has changed in terms of being higher scoring, as well as the changing of the divisions and how that might have some effect on how a coach's success is viewed. But the most underlying bias we found was in a metric some people might forget about when talking about football: money. Many people determine success on how much revenue a coach can bring in during their time.
+
+![](images/clipboard-244220973.png)
+
+At first glance, when looking at this graph, one might think that Tomlin has blown Cowher out of the water in terms of revenue. In reality, if we account for the underlying change in the way the NFL makes money as well as the inflation rate in recent years, we actually find that Cowher made more revenue per year than Tomlin when accounting for inflation.
+
+**Conclusion**
+
+When taking all of these graphs and conclusions into account, we discover a couple things: In terms of winning and points scored, we see that Mike Tomlin edges out Bill Cowher, even when accounting for a higher scoring NFL and a different game than past years. But, in terms of consistency, espeically in rankings, Bill Cowher is miles ahead in almost every metric. In terms of success, both coaches have done very well in their tenures, but Bill Cowher was able to finish just a little higher than Mike Tomlin in both division finishes and playoff runs.
+
+We understand that deciding who is the better coach is an objective question, and at the end of the day an opinion, so the interpretations of our graphs are layed out for the reader to make their own judgement. Nevertheless, through our analysis, we conclude that Bill Cowher was overall a better coach for the Pittsburgh Steelers.
 
 **References**
 
 Include all references used in report and analysis.
-
-**Research Questions:**
-
--   Who is the better coach for the Pittsburgh Steelers?
-
--   Who is more consistent in their rankings during their tenure?
-
--   Who was more successful during their tenure?
-
--   How does the evolving NFL playstyle affect the statistics?
 
 ## Running Code

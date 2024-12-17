@@ -4,7 +4,6 @@ format: pdf
 editor: visual
 ---
 
-```{=tex}
 \begin{center}
 
 STAT184 Final Project
@@ -14,7 +13,7 @@ JJ Steinbugl and Sammit Bal
 12/18/2024
 
 \end{center}
-```
+
 **Introduction**
 
 The Pittsburgh Steelers are one of the most famous franchises in NFL history, known for their iconic players, championship success, and leadership. Over the past three decades, the team has been shaped by two head coaches: Bill Cowher and Mike Tomlin.
@@ -82,5 +81,7 @@ Include all references used in report and analysis.
 -   Who was more successful during their tenure?
 
 -   How does the evolving NFL playstyle affect the statistics?
+
+test
 
 ## Running Code

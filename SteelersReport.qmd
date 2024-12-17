@@ -132,8 +132,8 @@ We understand that deciding who is the better coach is an objective question, an
 
 Include all references used in report and analysis.
 
-<<<<<<< HEAD
-=======
+# \<\<\<\<\<\<\< HEAD
+
 **Research Questions:**
 
 -   Who is the better coach for the Pittsburgh Steelers?
@@ -146,5 +146,4 @@ Include all references used in report and analysis.
 
 test
 
->>>>>>> 8f32833812f3452b77e793e12c530608568d5306
-## Running Code
+> > > > > > > 8f32833812f3452b77e793e12c530608568d5306 \## Running Code

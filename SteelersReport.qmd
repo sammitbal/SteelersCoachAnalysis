@@ -4,7 +4,6 @@ format: pdf
 editor: visual
 ---
 
-```{=tex}
 \begin{center}
 
 STAT184 Final Project
@@ -14,7 +13,7 @@ JJ Steinbugl and Sammit Bal
 12/18/2024
 
 \end{center}
-```
+
 **Introduction**
 
 The Pittsburgh Steelers are one of the most famous franchises in NFL history, known for their iconic players, championship success, and leadership. Over the past three decades, the team has been shaped by two head coaches: Bill Cowher and Mike Tomlin.
@@ -59,7 +58,9 @@ Address each research question in detail, supported by the data and insights fro
 
     The next category we analyzed was each coaches total points scored in terms of both their wins and their points scored. The graph comparing points scored to wins is on the left, and the one comparing points scored to the year is on the right.
 
-    ![](images/clipboard-3424389474.png){width="250"}![](images/clipboard-64297739.png){width="250"}
+    ![](images/clipboard-3424389474.png)
+
+    ![](images/clipboard-64297739.png)
 
     As you can see, the graph on the right once again favors Tomlin, as he is much more consistently scoring points, which by correlation is going to contribute to winning more games, as we saw in the graph above. But, a trend that has appeared in the more recent years of the NFL is that NFL football is a much higher scoring game than in years past. This is easily seen in the graph on the right, as Tomlin is easily scoring more points than Cowher, even in his seasons with less wins.
 
@@ -131,4 +132,19 @@ We understand that deciding who is the better coach is an objective question, an
 
 Include all references used in report and analysis.
 
+<<<<<<< HEAD
+=======
+**Research Questions:**
+
+-   Who is the better coach for the Pittsburgh Steelers?
+
+-   Who is more consistent in their rankings during their tenure?
+
+-   Who was more successful during their tenure?
+
+-   How does the evolving NFL playstyle affect the statistics?
+
+test
+
+>>>>>>> 8f32833812f3452b77e793e12c530608568d5306
 ## Running Code

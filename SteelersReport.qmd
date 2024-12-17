@@ -48,7 +48,9 @@ Address each research question in detail, supported by the data and insights fro
 
     The next category we analyzed was each coaches total points scored in terms of both their wins and their points scored. The graph comparing points scored to wins is on the left, and the one comparing points scored to the year is on the right.
 
-    ![](images/clipboard-3424389474.png){width="250"}![](images/clipboard-64297739.png){width="250"}
+    ![](images/clipboard-3424389474.png)
+
+    ![](images/clipboard-64297739.png)
 
     As you can see, the graph on the right once again favors Tomlin, as he is much more consistently scoring points, which by correlation is going to contribute to winning more games, as we saw in the graph above. But, a trend that has appeared in the more recent years of the NFL is that NFL football is a much higher scoring game than in years past. This is easily seen in the graph on the right, as Tomlin is easily scoring more points than Cowher, even in his seasons with less wins.
 

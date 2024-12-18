@@ -72,7 +72,7 @@ esquisser(data = tidy_data, viewer = "browser")
 
 
 
-##data set contains steelers receiving leader data
+##data set contains steelers revenue_data
 revenue_data <- steelersrevenue[-c(1,2,3),] %>%
   #renaming columns
   rename(Year = V1,
@@ -163,3 +163,20 @@ ggplot(tidy_data) +
   scale_color_hue(direction = 1) +
   theme_minimal()
 
+
+#added playoff runs
+ggplot(merged_tidy_data) +
+  aes(x = Playoffs, colour = Coaches) +
+  geom_bar(fill = "#112446") +
+  scale_color_hue(direction = 1) +
+  labs(x = "Playoff Appearances", y = "Count") +
+  theme_minimal()
+
+#added revenue graph
+merged_tidy_data %>%
+  filter(Year >= 2000L & Year <= 2024L) %>%
+  ggplot() +
+  aes(x = Year, y = Revenue.Million, colour = Coaches) +
+  geom_point() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()

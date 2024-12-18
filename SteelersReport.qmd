@@ -18,7 +18,7 @@ JJ Steinbugl and Sammit Bal
 
 The Pittsburgh Steelers are one of the most famous franchises in NFL history, known for their iconic players, championship success, and leadership. Over the past three decades, the team has been shaped by two head coaches: Bill Cowher and Mike Tomlin.
 
-Bill Cowher, who coached the team from 1992 to 2006, is known for his strong defensive-minded strategies, and running focused offence. Under his leadership, the Steelers reached the Super Bowl twice, winning in 2005. Following Cowher's tenure, Mike Tomlin took the reins in 2007, becoming the youngest head coach to win a Super Bowl in 2008.
+Bill Cowher, who coached the team from 1992 to 2006, is known for his strong defensive-minded strategies, and running focused offense. Under his leadership, the Steelers reached the Super Bowl twice, winning in 2005. Following Cowher's tenure, Mike Tomlin took the reins in 2007, becoming the youngest head coach to win a Super Bowl in 2008.
 
 In this report we will compare the Steelers' performance under Cowher and Tomlin, exploring their impact on the franchise through various metrics, including win-loss records, playoff consistency, and average offensive and defensive rankings. Additionally, we will consider how changes in the NFL's playstyle may have influenced their respective coaching tenures.
 
@@ -58,7 +58,7 @@ Figure (1)
 
 This is a graph that visualizes a teams wins, essentially shows how many times Coaches Cowher and Tomlin got a certain amount of wins. These counts range from 6 to 15, with Cowher taking the lowest and highest. We also see that Mike Tomlin has been very consistent from the 8 to 13 win range, but Bill Cowher has had more variety in his win columns. An important note to consider here is that When Cowher coached, there were only 16 games in the season, as opposed to Tomlin who has 17 games in each season. We interpret that Tomlin has been much more consistent with winning, but we are aware of the uneven game amounts.
 
-The next category we analyzed was each coaches total points scored in terms of both their wins and their points scored. The graph comparing points scored to wins is on the top, and the one comparing points scored to the year is under.
+The next category we analyzed was each coaches total points scored in terms of both their wins and their points scored. The graph comparing points scored to wins is on the top (Figure 2), and the one comparing points scored to the year is under (Figure 3).
 
 ![](images/clipboard-3424389474.png)
 
@@ -76,13 +76,13 @@ Figure (3)
 
 \end{center}
 
-As you can see, the graph comparing points scored and year favors Tomlin, as he is consistently scoring more points, which by correlation is going to contribute to winning more games, as we saw in the graph above. But, a trend that has appeared more recently in the NFL is that NFL football is a much higher scoring game than in years past. This is easily seen in the graph comparing points and wins, as Tomlin is easily scoring more points than Cowher, even in his seasons with less wins.
+As you can see, the graph comparing points scored and year (Figure 3) favors Tomlin, as he is consistently scoring more points, which by correlation is going to contribute to winning more games, as we saw in the graph above (Figure 2). But, a trend that has appeared more recently in the NFL is that NFL football is a much higher scoring game than in years past. This is easily seen in the graph comparing points and wins (Figure 2), as Tomlin is easily scoring more points than Cowher, even in his seasons with less wins.
 
 **Who is more consistent in their rankings during their tenure?**
 
 The next thing we can look at is how these two coaches compared to their colleagues throughout their time coaching. We will analyze graphs comparing their ranks in all categories, offensive and defensive.
 
-The first visualization we made was comparing the offensive points scored ranking of the coaches each year they coached. In terms of ranking, number 1 is the best, so the lower the line is, the better the coach was ranked in that year.
+The first visualization we made was comparing the offensive points scored ranking of the coaches each year they coached (Figure 4). In terms of ranking, number 1 is the best, so the lower the line is, the better the coach was ranked in that year.
 
 ![](images/clipboard-2906734705.png)
 
@@ -92,9 +92,9 @@ Figure (4)
 
 \end{center}
 
-In the graph we can see that Mike Tomlin is much more variable, having multiple spikes in rank up in the 20's, but a few short years close to 2 or 3. Coach Cowher is more consistent, only having one big spike up in the high 20's, but other than that having a consistent rank of around 8.
+In Figure 4 we can see that Mike Tomlin is pretty inconsistent, as he has had many low ranking seasons followed by a few high ranking seasons. Coach Cowher is more consistent, only having one big spike up in the high 20's, but ignoring that season he's had a consistent rank of around 8th. In this aspect Coach Cowher comes out on top as the more consistent and on average higher ranked team.
 
-We then did the same for defensive points scored rank. The same rule that lower is better applies to this graph as well.
+We then created another vizualization for defensive points scored rank (Figure 5). Again same rules apply, the lower the line the better the ranking is.
 
 ![](images/clipboard-3632505765.png)
 
@@ -104,9 +104,9 @@ Figure (5)
 
 \end{center}
 
-From this graph we can see that Mike Tomlin is very sporadic with his rankings, some very high, and some very low, whereas Bill Cowher is much more consistent, with far less spikes than Tomlin.
+From this graph we can see that Mike Tomlin's defense has been very sporadic in its rankings, early on there were some great defensive seasons but as we progress the amplitude of the rankings began to get very unpredictable. On the other hand Bill Cowher was much more consistent, he did have one sudden drop but overall he was more consistent during his time at the Steelers.
 
-The next graph shows the coaches rank in terms of offensive and defensive yards. In this particular graph, the further in the bottom left the coach is, the better their ranks were.
+The next graph shows the coaches rank in terms of offensive and defensive yards (Figure 6). In this particular graph, the further to the bottom left the coach is, the better their ranks were.
 
 ![](images/clipboard-3198986412.png)
 
@@ -116,15 +116,15 @@ Figure (6)
 
 \end{center}
 
-We can see that Coach Cowher was able to acquire much lower ranks in both offensive and defensive yards. We can also see that he was much more consistent in his time, keeping all of his ranks low whereas Mike Tomlin had years with very high ranks.
+Looking at Figure 6 we can see that Coach Cowher was able to stay in the bottom left of the graph more often than Mike Tomlin, this position means that his teams acquired much lower ranks in both offensive and defensive yards. We can also see that his defenses were generally better rated than his offenses. This trend is not true for Tomlin however as he dealt with a few seasons that saw both his offense and defense ranked in the 20's. Overall, Cowher came out on top in this category, mostly due to his emphasis on defense and generally just having less off seasons.
 
--   Who was more successful during their tenure?
+**Who was more successful during their tenure?**
 
-    When determining success, one of the most common standpoints to view success is by end of the season ranks, as well as playoff runs. We will compare both of these to see the success level of each coach.
+When measuring success, one of the most common statistics to view success is by end of the season ranks, as well as playoff runs. We will compare both of these to see the success level of each coach.
 
-    Our first graph is comparing the divisional finishes. One thing we have to be aware of is that in Cowher's time, there were 5 and 6 teams in the playoff, compared to the modern day 4 teams.
+Our first graph is compares the divisional finishes of both coaches (Figure 7). One thing we have to be aware of is that in Cowher's time, there were 5 or 6 teams in the playoffs, compared to the modern day 4 teams. This could skew the results in Tomlin's favor however we understand this change and know that it will not affect our analysis or discussion greatly.
 
-    ![](images/clipboard-1894425753.png)
+![](images/clipboard-1894425753.png)
 
 \begin{center}
 
@@ -132,23 +132,9 @@ Figure (7)
 
 \end{center}
 
-```         
-Here we can see that accounting for the different amount of teams between the two time frames, the coaches are pretty even. Each coach has finished first about 7 times, and they have each finished second and third the same amount of times. This tells us they were both very successful, but nothing too prominent to distinguish them from one another.
+Looking at Figure 7 and accounting for the fact that there are a different number of teams between the two time frames, the coaches results are pretty even. Each coach has finished first about 7 times, and they have each finished second and third the same amount of times. This tells us they were both very successful, but nothing too prominent to distinguish them from one another. In the last section we saw that Cowher's teams were usually ranked better than Tomlin's but we now see that overall both coaches achieved similar results. Could this mean that although Tomlin's teams were generally ranked lower, they out preformed better ranked teams in the playoffs?
 
-Now we can compare their playoff appearances, and to what level they got to. The order in terms of least important to most important is as follows:
-```
-
--   No Appearance
-
--   Lost WC
-
--   Lost Div
-
--   Lost Conf
-
--   Lost SB
-
--   Won SB
+To understand this question we can compare their playoff appearances, and to what level they got to (Figure 8). The order in terms of most important to least important is as follows: Won SB (Superbowl), Lost SB, Lost Conf, Lost Div, Lost WC, and No Appearance.
 
 -   ![](images/clipboard-172469514.png)
 
@@ -158,13 +144,11 @@ Figure (8)
 
 \end{center}
 
-```         
-We observe that in terms of the most important appearance, the Superbowl, both coaches have won one and lost one, so there is no significant difference there. But, we do see that coach Cowher is leading in both the Lost Conf and Lost Div columns, meaning that he was able to get further in the playoffs a lot more often than coach Tomlin. From this we determine that Bill Cowher was more successful in the playoffs.
-```
+Looking at figure 8 we observe that in terms of the most important appearance, the Superbowl, both coaches have won one and lost one, so there is no significant difference there. But, we do see that coach Cowher is leading in both the Lost Conf and Lost Div columns, meaning that he was able to get further in the playoffs a lot more often than coach Tomlin. To answer the question above, no, the data from figure 8 shows us that that Tomlin's teams did not out preform better ranked teams in the playoffs. Overall, we determined that Bill Cowher was more successful in the playoffs.
 
--   How does the evolving NFL playstyle affect the statistics?
+**How does the evolving NFL playstyle affect the statistics?**
 
-    Earlier we discussed how the NFL gameplay has changed in terms of being higher scoring, as well as the changing of the divisions and how that might have some effect on how a coach's success is viewed. But the most underlying bias we found was in a metric some people might forget about when talking about football: money. Many people determine success on how much revenue a coach can bring in during their time.
+Earlier we discussed how the NFL gameplay has changed in terms of being higher scoring, as well as changing the number of teams in each division, and how that might have some effect on how a coach's success is viewed. An underlying bias we found was in a metric some people might forget when talking about football: money. Some people may determine a coaches success based on how much revenue they can bring in. To show this metric we visualized a graph which plotted the Steelers revenue in millions over the course of Cowher's and Tomlin's time at the Steelers (Figure 9).
 
 ![](images/clipboard-244220973.png)
 
@@ -174,14 +158,209 @@ Figure (9)
 
 \end{center}
 
-At first glance, when looking at this graph, one might think that Tomlin has blown Cowher out of the water in terms of revenue. In reality, if we account for the underlying change in the way the NFL makes money as well as the inflation rate in recent years, we actually find that Cowher made more revenue per year than Tomlin when accounting for inflation.
+When looking at figure 9, we can see that Tomlin has blown Cowher out of the water in terms of revenue. In the eyes of many people out there they would consider this a massive win for Tomlin as his numbers are amazing but we don't think these numbers tell the whole story. These numbers definitely don't reflect better performance, but they instead reflect the evolving NFL landscape and the Steelers' consistent competitiveness during both tenures. Overall, the growth of the NFL over the past 20-30 years has brought with it huge amounts of money, it also comes with in our analysis the notion that more money does not equal more better.
 
 # **Conclusion**
 
-When taking all of these graphs and conclusions into account, we discover a couple things: In terms of winning and points scored, we see that Mike Tomlin edges out Bill Cowher, even when accounting for a higher scoring NFL and a different game than past years. But, in terms of consistency, espeically in rankings, Bill Cowher is miles ahead in almost every metric. In terms of success, both coaches have done very well in their tenures, but Bill Cowher was able to finish just a little higher than Mike Tomlin in both division finishes and playoff runs.
+When taking into account all of the graphs, analysis, and discussions, we discover a couple things: In terms of winning and points scored, we see that Mike Tomlin edges out Bill Cowher, even when accounting for a higher scoring NFL and a different type of game than past years. However, in terms of consistency, especially in rankings, Bill Cowher is miles ahead in almost every metric. In terms of success, both coaches have done very well in their tenures, but Bill Cowher was able to finish just a little higher than Mike Tomlin in both division finishes and playoff runs.
 
-We understand that deciding who is the better coach is an objective question, and at the end of the day an opinion, so the interpretations of our graphs are layed out for the reader to make their own judgement. Nevertheless, through our analysis, we conclude that Bill Cowher was overall a better coach for the Pittsburgh Steelers.
+We understand that deciding who is the better coach is an objective question, and at the end of the day an opinion, so the interpretations of our graphs have been layed out for the reader to make their own judgments alongside us. Nevertheless, through our analysis, we conclude that Bill Cowher was overall a better coach for the Pittsburgh Steelers.
 
 # **References**
 
-Include all references used in report and analysis.
+**NFL scoring and changes reference:**
+
+Graban, Mark. “NFL Scoring Is Up, an All-Time High, but Is It a ‘Signal’ Worth Explaining?” *Lean Blog*, 13 Oct. 2020, www.leanblog.org/2020/10/nfl-scoring-is-up-an-all-time-high-but-is-it-a-signal-worth-explaining/.
+
+**Data References:**
+
+“Pittsburgh Steelers Revenue 2021.” *Statista*, www.statista.com/statistics/195289/revenue-of-the-pittsburgh-steelers-since-2006/.
+
+“Pittsburgh Steelers Team Records, Leaders, and League Ranks.” *Pro-Football-Reference.com*, www.pro-football-reference.com/teams/pit/.
+
+# Code Appendix
+
+``` r
+#load packages
+library(tidyverse)
+library(tidyr)
+library(dplyr)
+library(esquisse)
+
+
+#dataset contains all basic team information as well as points and yard ranks
+#tidy dataset 
+
+#get rid of top row
+tidy_data <- sportsref_download.xls[-c(1),] %>%
+  #delete unnecessary columns
+  subset(select = -c(X.1, X.2, Top.Players, X.11, X.12, X.13, X.18, Simple.Rating.System, X.19, X.20, X.21, X.22 )) %>%
+  #renames columns
+  rename( 
+    Year = X, 
+    Wins = X.3,
+    Loses = X.4, 
+    Ties = X.5,
+    Div_fin = X.6,
+    Playoffs = X.7,
+    Total_points = Points,
+    Points_allowed = X.8,
+    Point_diff = X.9,
+    Coaches = X.10, 
+    OffPtsRNK = Off.Rank,
+    OffYdsRNK = X.14,
+    DefPtsRNK = Def.Rank,
+    DefYdsRNK = X.15,
+    TurnRNK = Overall.Rank,
+    PtsDiffRNK = X.16,
+    YdsDiffRNK = X.17) %>%
+  #mutates or changes the data type of the column
+  #this helps with graphing and making sure the data is being represented correctly
+  mutate(Year = as.integer(Year)) %>%
+  mutate(Wins = as.integer(Wins)) %>%
+  mutate(Loses = as.integer(Loses)) %>%
+  mutate(Ties = as.integer(Ties)) %>%
+  mutate(Total_points = as.integer(Total_points)) %>%
+  mutate(Points_allowed = as.integer(Points_allowed)) %>%
+  mutate(Point_diff = as.integer(Point_diff)) %>%
+  mutate(OffPtsRNK = as.integer(OffPtsRNK)) %>%
+  mutate(OffYdsRNK = as.integer(OffYdsRNK)) %>%
+  mutate(DefPtsRNK = as.integer(DefPtsRNK)) %>%
+  mutate(DefYdsRNK = as.integer(DefYdsRNK)) %>%
+  mutate(TurnRNK = as.integer(TurnRNK)) %>%
+  mutate(PtsDiffRNK = as.integer(PtsDiffRNK)) %>%
+  mutate(Year = as.integer(Year)) %>%
+  mutate(Wins = as.integer(Wins)) %>%
+  mutate(Loses = as.integer(Loses)) %>%
+  mutate(Ties = as.integer(Ties)) %>%
+  mutate(Total_points = as.integer(Total_points)) %>%
+  mutate(Points_allowed = as.integer(Points_allowed)) %>%
+  mutate(Point_diff = as.integer(Point_diff)) %>%
+  mutate(OffPtsRNK = as.integer(OffPtsRNK)) %>%
+  mutate(OffYdsRNK = as.integer(OffYdsRNK)) %>%
+  mutate(DefPtsRNK = as.integer(DefPtsRNK)) %>%
+  mutate(DefYdsRNK = as.integer(DefYdsRNK)) %>%
+  mutate(TurnRNK = as.integer(TurnRNK)) %>%
+  mutate(YdsDiffRNK = as.integer(YdsDiffRNK))
+
+#keeps data from years 1992 to 2024 only 
+tidy_data <- tidy_data[-(34:91),]
+
+View(tidy_data)
+
+
+
+#creating graphs to compare tomlin and cowher
+esquisser(data = tidy_data, viewer = "browser")
+
+
+
+##data set contains steelers revenue_data
+revenue_data <- steelersrevenue[-c(1,2,3),] %>%
+  #renaming columns
+  rename(Year = V1,
+         Revenue.Million = V2) %>%
+  #changing data type
+  mutate(Year = as.integer(Year))
+  
+#adding revenue data to original dataset
+merged_tidy_data <- tidy_data %>%
+  left_join(revenue_data, by = "Year")
+  
+
+View(merged_tidy_data)
+
+
+#graph compares wins between coaches
+
+ggplot(tidy_data) +
+  aes(x = Wins, colour = Coaches) +
+  geom_histogram(bins = 30L, fill = "#112446") +
+  scale_color_manual(
+    values = c(Cowher = "#F8766D",
+               Tomlin = "#61E0FF")
+  ) +
+  theme_minimal() +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10))
+
+#graphs compares total points scored and wins
+
+ggplot(tidy_data) +
+  aes(x = Wins, y = Total_points, colour = Coaches) +
+  geom_point(size = 3L, shape = "bullet") +
+  scale_color_manual(
+    values = c(Cowher = "#F8766D",
+               Tomlin = "#61E0FF")
+  ) +
+  theme_minimal() +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10))
+
+#graph compares total points and years
+
+ggplot(tidy_data) +
+  aes(x = Year, y = Total_points, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+
+# off pts rank 
+
+ggplot(tidy_data) +
+  aes(x = Year, y = OffPtsRNK, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+#def pts rnk
+
+ggplot(tidy_data) +
+  aes(x = Year, y = DefPtsRNK, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+#points allowed
+
+ggplot(tidy_data) +
+  aes(x = Year, y = Points_allowed, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+# off yds rank and def yds rank
+
+ggplot(tidy_data) +
+  aes(x = OffYdsRNK, y = DefYdsRNK, colour = Coaches) +
+  geom_line() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+#added div finish
+
+ggplot(tidy_data) +
+  aes(x = Div_fin, colour = Coaches) +
+  geom_bar(fill = "#112446") +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+
+#added playoff runs
+ggplot(merged_tidy_data) +
+  aes(x = Playoffs, colour = Coaches) +
+  geom_bar(fill = "#112446") +
+  scale_color_hue(direction = 1) +
+  labs(x = "Playoff Appearances", y = "Count") +
+  theme_minimal()
+
+#added revenue graph
+merged_tidy_data %>%
+  filter(Year >= 2000L & Year <= 2024L) %>%
+  ggplot() +
+  aes(x = Year, y = Revenue.Million, colour = Coaches) +
+  geom_point() +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+```
